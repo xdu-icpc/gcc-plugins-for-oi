@@ -9,7 +9,7 @@ Currently, only one plugin `no_opt_attr_plugin` is included.
 Simply `make all`.
 
 Or, if you are building the plugins for a gcc copy other than the system
-one, use `make all TARGET_GCC=/path/to/gcc`.
+compiler, use `make all TARGET_GCC=/path/to/gcc`.
 
 ## Description
 
